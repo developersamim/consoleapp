@@ -1,0 +1,16 @@
+C:\Users\SamimAhmed\Documents\projects\codility\bin\Debug\net5.0\codility.exe
+C:\Users\SamimAhmed\Documents\projects\codility\bin\Debug\net5.0\codility.deps.json
+C:\Users\SamimAhmed\Documents\projects\codility\bin\Debug\net5.0\codility.runtimeconfig.json
+C:\Users\SamimAhmed\Documents\projects\codility\bin\Debug\net5.0\codility.runtimeconfig.dev.json
+C:\Users\SamimAhmed\Documents\projects\codility\bin\Debug\net5.0\codility.dll
+C:\Users\SamimAhmed\Documents\projects\codility\bin\Debug\net5.0\ref\codility.dll
+C:\Users\SamimAhmed\Documents\projects\codility\bin\Debug\net5.0\codility.pdb
+C:\Users\SamimAhmed\Documents\projects\codility\obj\Debug\net5.0\codility.csproj.AssemblyReference.cache
+C:\Users\SamimAhmed\Documents\projects\codility\obj\Debug\net5.0\codility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamimAhmed\Documents\projects\codility\obj\Debug\net5.0\codility.AssemblyInfoInputs.cache
+C:\Users\SamimAhmed\Documents\projects\codility\obj\Debug\net5.0\codility.AssemblyInfo.cs
+C:\Users\SamimAhmed\Documents\projects\codility\obj\Debug\net5.0\codility.csproj.CoreCompileInputs.cache
+C:\Users\SamimAhmed\Documents\projects\codility\obj\Debug\net5.0\codility.dll
+C:\Users\SamimAhmed\Documents\projects\codility\obj\Debug\net5.0\ref\codility.dll
+C:\Users\SamimAhmed\Documents\projects\codility\obj\Debug\net5.0\codility.pdb
+C:\Users\SamimAhmed\Documents\projects\codility\obj\Debug\net5.0\codility.genruntimeconfig.cache
